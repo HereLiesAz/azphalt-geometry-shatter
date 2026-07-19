@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.layer.scenery.scenery-geometry-shatter",
+  "id": "com.hereliesaz.azphalt.geometry-shatter",
   "name": "Geometry Shatter",
   "version": "1.0.0",
   "kind": "asset",
